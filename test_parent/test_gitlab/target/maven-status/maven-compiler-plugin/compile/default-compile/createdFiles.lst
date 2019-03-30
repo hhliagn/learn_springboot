@@ -1,0 +1,5 @@
+com\cvte\base\pojo\User.class
+com\cvte\base\dao\UserDao.class
+com\cvte\base\BaseApplication.class
+com\cvte\base\Controller\gitLabController.class
+com\cvte\base\service\gitLabService.class

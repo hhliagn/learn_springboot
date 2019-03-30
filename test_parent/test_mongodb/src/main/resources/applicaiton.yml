@@ -1,0 +1,9 @@
+server:
+  port: 9003
+spring:
+  application:
+    name: test_mongodb #指定服务名
+  data:
+    mongodb:
+      host: 127.0.0.1
+      database: spitdb
